@@ -32,7 +32,7 @@ Usage
 
 Run the script, and it will generate a secure password for you:
 
-python3 password_generator.py
+python3 passGenerator.py
 
 Example Output:
 
